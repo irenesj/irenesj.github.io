@@ -22,8 +22,8 @@ body {
 }
 
 /* //-- header, body, footer -- */
-#hd { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
-#hd h2 { text-transform: uppercase; letter-spacing: 2px; }
+header { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
+header h2 { text-transform: uppercase; letter-spacing: 2px; }
 #bd, footer { margin-bottom: 2em; }
 .gf{margin-top: 5%;}
 
@@ -32,7 +32,7 @@ footer { padding: 1em 0 5em 0; font-size: 100%; border-top: 1px solid #ccc; text
 footer p { margin-bottom: 0; text-align: center; } 
 
 /* //-- core typography and style -- */
-#hd h1 { font-size: 350%; text-transform: uppercase; letter-spacing: 0.150em;}
+header h1 { font-size: 350%; text-transform: uppercase; letter-spacing: 0.150em;}
 h2 { font-size: 152%; }
 h3, h4 { font-size: 122%; }
 h1, h2, h3, h4 { color: #333; }
@@ -60,5 +60,4 @@ p.enlarge { font-size: 142%; padding-bottom: 3em; line-height: 24px; border-bott
 .talent h2 { margin-bottom: 6px; }
 
 .gf div.first{width:50%;}
-/*.u{margin-bottom: 3em;}*/
 
