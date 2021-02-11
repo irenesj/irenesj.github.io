@@ -21,10 +21,6 @@ body {
 
 }
 
-@media only screen and (max-device-width: 900px) {
-
-    div#inner{width: 90%;}
-}
 
 /* //-- header, body, footer -- */
 header { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
@@ -51,7 +47,6 @@ p.enlarge { font-size: 142%; padding-bottom: 3em; line-height: 24px; border-bott
 
 
 /* //-- section styles -- */
-
 .education { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 .education h4 { position: absolute; top: 0.35em; right: 0 }
 .education p { margin: 0.75em 0 3em 0; }
@@ -64,4 +59,11 @@ p.enlarge { font-size: 142%; padding-bottom: 3em; line-height: 24px; border-bott
 .talent h2 { margin-bottom: 6px; }
 
 .gf div.first{width:50%;}
+
+/* //-- responsive design -- */
+@media only screen and (max-device-width: 900px) {
+
+    div#inner{width: 90%;}
+    
+}
 
