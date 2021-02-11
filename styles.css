@@ -21,9 +21,9 @@ body {
 
 }
 
-@media only screen{
+@media only screen and (max-device-width: 480px) {
 
-    div.inner{width: 90%;}
+    div#inner{width: 90%;}
 }
 
 /* //-- header, body, footer -- */
