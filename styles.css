@@ -21,6 +21,11 @@ body {
 
 }
 
+@media only screen{
+
+    div.inner{width: 90%;}
+}
+
 /* //-- header, body, footer -- */
 header { margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc }
 header h2 { text-transform: uppercase; letter-spacing: 2px; }
