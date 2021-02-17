@@ -63,10 +63,18 @@ p.enlarge { font-size: 142%; padding-bottom: 3em; line-height: 24px; border-bott
 /* //-- responsive design -- */
 @media only screen and (max-device-width: 900px) {
 
-    div#inner{width: 90%;}
-    body{
-        background-color: #c7cdc8;
-    };
+    div#inner{ width: 90%; }
+    body{ background-image: none; };
+    p.enlarge { 
+        
+        font-size: 140%; 
+        padding-bottom: 3em; 
+        padding-right: 0.1em;
+        padding-left: 0.1em;
+        line-height: 24px; 
+        border-bottom: 1px solid #ccc;
+    
+    }
     
     
 }
