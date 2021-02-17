@@ -64,6 +64,10 @@ p.enlarge { font-size: 142%; padding-bottom: 3em; line-height: 24px; border-bott
 @media only screen and (max-device-width: 900px) {
 
     div#inner{width: 90%;}
+    body{
+        background-color: #c7cdc8;
+    };
+    
     
 }
 
