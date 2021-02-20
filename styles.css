@@ -3,7 +3,7 @@ body {
 
     font-family: Georgia; 
     color: rgb(24, 23, 23);
-    background-color:#c7cdc8; 
+    background-color:#464747; 
     background-image: url(images/bird.png); 
     background-repeat: no-repeat; 
 
@@ -138,7 +138,7 @@ p.enlarge {
 /* //-- responsive design -- */
 @media only screen and (max-device-width: 900px) {
 
-    div#inner{ width: 90%; opacity: 85%; }
+    div#inner{ width: 90%; opacity: 90%; }
     body{ background-size: 100% auto;};
     p.enlarge { 
         
