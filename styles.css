@@ -140,6 +140,8 @@ p.enlarge {
 
     div#inner{ width: 90%; }
     body{ /*background-image: none;*/ 
+        background-image: url(images/bird.png);
+        background-repeat: no-repeat;
         background-size: 100% auto;};
     p.enlarge { 
         
