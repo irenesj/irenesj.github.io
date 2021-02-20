@@ -138,7 +138,8 @@ p.enlarge {
 /* //-- responsive design -- */
 @media only screen and (max-device-width: 900px) {
 
-    div#inner{ width: 90%; }
+    div#inner{ width: 90%;
+                opacity: 50%; }
     body{ /*background-image: none;*/ 
         background-image: url(images/bird.png);
         background-repeat: no-repeat;
