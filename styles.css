@@ -132,7 +132,7 @@ p.enlarge {
 .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
 .talent { width: 29%; float: left }
 .talent h2 { margin-bottom: 6px; }
-.gf div.first{width:50%;}
+.gf div.first{width:100%;}
 
 
 /* //-- responsive design -- */
