@@ -138,7 +138,7 @@ p.enlarge {
 /* //-- responsive design -- */
 @media only screen and (max-device-width: 900px) {
 
-    div#inner{ width: 90%; opacity: 90%; }
+    div#inner{ width: 90%; opacity: 80%; }
     body{ background-size: 100% auto;};
     p.enlarge { 
         
