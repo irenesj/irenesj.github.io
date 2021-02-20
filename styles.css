@@ -139,7 +139,8 @@ p.enlarge {
 @media only screen and (max-device-width: 900px) {
 
     div#inner{ width: 90%; }
-    body{ background-image: none; };
+    body{ /*background-image: none;*/ 
+        background-size: 100% auto;};
     p.enlarge { 
         
         font-size: 140%; 
@@ -148,7 +149,6 @@ p.enlarge {
         padding-left: 0.2em;
         line-height: 24px; 
         border-bottom: 1px solid #ccc;
-        background-size: 100% auto;
     
     }
     
