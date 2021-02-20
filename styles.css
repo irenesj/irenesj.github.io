@@ -132,17 +132,16 @@ p.enlarge {
 .skills-list li span { font-size: 152%; display: block; margin-bottom: -2px; padding: 0 }
 .talent { width: 29%; float: left }
 .talent h2 { margin-bottom: 6px; }
-.gf div.first{width:100%;}
+.gf div.first{width:70%;}
 
 
 /* //-- responsive design -- */
 @media only screen and (max-device-width: 900px) {
 
-    div#inner{ width: 90%;
-                opacity: 50%; }
-    body{ /*background-image: none;*/ 
+    div#inner{ width: 90%; opacity: 80%; }
+    body{ /*background-image: none; 
         background-image: url(images/bird.png);
-        background-repeat: no-repeat;
+        background-repeat: no-repeat;*/
         background-size: 100% auto;};
     p.enlarge { 
         
