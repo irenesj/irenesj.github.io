@@ -50,7 +50,7 @@ footer {
     font-size: 110%; 
     border-top: 1px solid #ccc; 
     text-align: center; 
-    word-spacing: 3%;
+    word-spacing: 100%;
     color: #000;
 
 }
