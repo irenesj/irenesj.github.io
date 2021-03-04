@@ -3,6 +3,7 @@ body {
 
     font-family: Georgia; 
     color: rgb(24, 23, 23);
+    line-height: 1.6;
     background-color:#464747; 
     background-image: url(images/bird.png); 
     background-repeat: no-repeat; 
@@ -50,7 +51,7 @@ footer {
     font-size: 110%; 
     border-top: 1px solid #ccc; 
     text-align: center; 
-    word-spacing: 100%;
+    word-spacing: 150%;
     color: #000;
 
 }
